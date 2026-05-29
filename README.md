@@ -236,4 +236,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Built with ❤️ by [NotMR_GH]
+Built with ❤️ by Shamir
